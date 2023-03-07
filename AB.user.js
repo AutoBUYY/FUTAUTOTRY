@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        FUT Auto Buyer
 // @version     1.6.0
-// @author      CK Algos
+// @author      MDERYAN
 // @description FUT Auto Buyer
 // @match       https://www.ea.com/*/fifa/ultimate-team/web-app/*
 // @match       https://www.ea.com/fifa/ultimate-team/web-app/*
